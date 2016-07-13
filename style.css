@@ -1,0 +1,280 @@
+
+html,body{
+    background: lightgray;
+    margin: 0;
+    padding: 0;
+}
+.header1{
+    width: 100%;
+    height: 25px;
+    background: #055593;
+}
+.fa-phone{
+    color:white;
+    font-size: 15px;
+    margin-left:10%;
+}
+.fa-envelope{
+    color:white;
+    font-size: 15px;
+    margin-left:2%;
+}
+.fa-facebook{
+    color:white;
+    font-size: 15px;
+    margin-left:55%;
+}
+.fa-twitter{
+    color:white;
+    font-size: 15px;
+}
+.fa-google{
+    color:white;
+    font-size: 15px;
+}
+.fa-youtube{
+    color:white;
+    font-size: 15px;
+}
+.fa-pinterest-p{
+    color:white;
+    font-size: 15px;
+}
+.header2{
+    margin:0;
+    padding:0;
+    width: 100%;
+    height: 70px;
+    background: #1971B7;
+}
+.header3{
+    width:100%;
+    height: 540px;
+    background: green url(image/home-slider-1.jpg)  top center;
+    background-size: 1390px;
+    background: cover;
+}
+.inheader3{
+    padding-top:18%;
+}
+.center1{
+    color:white;
+    font-family:Verdana;
+}
+.button{
+    width: 155px;
+    height: 45px;
+    color:#2678B9;
+}
+.radio{
+    margin-left: 48%;
+}
+ul {
+    padding:0;
+    margin:0;
+    margin-left: 60%;
+    width: 435px;
+	height: 70px;
+    list-style-type: none;
+    background: #1971B7;
+}
+ul li a {
+	text-decoration: none;
+    font-family: "Verdana";
+	color:white;
+	display: inline-block;
+}
+ul li{
+    padding:10px;
+	float: left;
+	width: 65px;
+	height: 50px;
+	background-color: #1971B7;
+	font-size: 15px;
+	line-height: 53px;
+	text-align: center center;
+    opacity: .8;
+}
+
+
+
+.footer1{
+    width: 100%;
+    height: 40px;
+    background: #055593;
+    clear: both;
+}
+.footer2{
+    width: 100%;
+    height: 340px;
+    background: #1971B7;
+    margin: 0;
+    padding:0;
+}
+.blok{
+    margin: 0 auto;
+    padding:0;
+    width: 960px;
+    height: 95%;
+}
+.inblok{
+    padding:5px;
+    width: 300px;
+    height: 100%;
+    background:#1971B7;
+    float: left;
+}
+
+.contact{
+    width: 290px;
+    height: 30px;
+    color:white;
+    background:#055593;
+    border: 1px solid white;
+    padding: 2px;
+
+}
+.contact1{
+    width: 290px;
+    height: 60px;
+    color:white;
+    background:#055593;
+    border: 1px solid white;
+    padding: 2px;
+}
+.submit{
+    width:120; 
+    margin-left:50%;
+    background:#055593;
+    
+}
+
+.footer3{
+    color:white;
+    width: 1210px
+    height: 20px;
+    background: #055593;
+    padding-left: 68%;
+    clear: both;/
+}
+
+
+#hisse{
+	width: 100%;
+	height: 100%;
+	background: white;
+}
+#hisse1{
+ background-color:white;
+ width: 1210px;
+ height: 350px;
+ margin:0 auto;
+}
+
+.inHisse1{
+	width: 265px;
+	height: 325px;
+	margin-left: 30px;
+	margin-top:25px;
+	background-color: #1286E7;
+	float:left;
+	text-align: center;
+	color:white;
+	word-spacing: 4px;
+}
+.inHisse1 p{
+	text-align: center;
+	margin:1.3em;
+	font-family: Arial;
+}
+  #read
+  {color: white;
+  	display: inline-block;
+	background-color: #115C9B ;
+	margin:0 auto;
+	margin-top: 30px;
+	padding:12px;
+	padding-left: 20px;
+	padding-right: 20px;
+	}
+#hisse2{
+	width: 1215px;
+	height: 587px;
+	background-color:white;
+	margin:0 auto;
+}
+
+.inHisse2{
+	width: 558px;
+	height: 562px;
+	background-image:url(we-fight-togother.jpg);
+	background-color: red;
+	float:left;
+	margin: 25px;
+}
+
+.inHisse3
+{   width: 558px;
+	height: 562px;
+	background-image:url(we-care-about.jpg);
+	background-color: red;
+	float:right;
+	margin: 24px;
+
+}
+.hisse2text{
+	width: 557px;
+	height: 130px;
+	background-color: #2C6CA2;
+	margin-top: 27em;
+	color:white;
+	text-align: center;
+	font-family: Arial;
+	opacity: .8
+}
+.our{
+	width: 1210px;
+	height: 140px;
+	color:#115C9B;
+	background-color: white;
+	margin:0 auto;
+}
+.inOur{
+    width: 20em;
+    height: 6em;
+    background-color:white;
+    position: absolute;
+    left:33em;
+}
+.ourText{
+	margin-top: 40px;
+	display: inline-block;
+	margin-left: 2em;
+	font-family: Arial;
+}
+
+#hisse3{
+ width: 1210px;
+ height: 500px;
+ background-color:white;
+	margin:0 auto;
+
+}
+
+.inhisse3{
+	width: 265px;
+	height: 460px;
+	margin-left: 30px;
+	background-color: white;
+	float:left;
+	text-align: center;
+	color:#1F76BD;
+	word-spacing: 4px;
+	border:1px solid #1F76BD;
+}
+#ourImage{
+	width: 1100px;
+	height: 8em;
+	background-color: white;
+	margin-left: 10em;
+}
